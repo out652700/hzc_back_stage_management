@@ -1,6 +1,8 @@
 package com.word.wm.main.wm_dao.test;
 
 import jdk.nashorn.internal.objects.annotations.Setter;
+import org.apache.ibatis.annotations.Result;
+import org.apache.ibatis.annotations.Results;
 import org.apache.ibatis.annotations.Select;
 import org.mapstruct.Mapper;
 import org.springframework.stereotype.Repository;
